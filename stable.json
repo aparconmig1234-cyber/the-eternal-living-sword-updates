@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0.0",
   "channel": "stable",
-  "web_version": "20260927035000",
+  "web_version": "20260927043000",
   "min_native_version_code": 1000000,
   "bundle_url": "https://raw.githubusercontent.com/aparconmig1234-cyber/the-eternal-living-sword-updates/main/eev-web-update.zip",
-  "bundle_sha256": "78fe07ffca2c947c4f41d0d12a04fa51ff0efa61e937490400fe19df4183d2d2",
-  "bundle_bytes": 489750,
-  "source_commit": "5a3ac9f951e79ea383f658c78b0cc7ef33183754"
+  "bundle_sha256": "53f23c453f550cb0defe3a0387c340807e11b684e96bb24c7891373624a8286c",
+  "bundle_bytes": 623230,
+  "source_commit": "450ad0af3f151a1b2a7225b6e43387f1e85829ef"
 }
